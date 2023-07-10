@@ -2,3 +2,50 @@
     margin: 0px;
     padding: 0px;
 }
+/* banner releted styls */
+
+.banner-container{
+background: rgba(229, 84, 115, 0.10);
+background-size: cover;
+display: flex;
+
+
+}
+.banner-content{
+    
+    margin-left: 240px;
+    margin-right: 240px;
+    margin-top: 197px;
+
+}
+.title{
+    color: #272727;
+    font-size: 80px;
+    font-weight: 800;
+}
+
+.discription{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    margin-top: 50px;
+}
+.btn-primary{
+    padding: 20px 43px;
+    border-radius: 8px;
+    background: #E55473;
+    gap: 10px;
+    color: #FFF;
+    font-size: 20px;
+    border: 0px;
+    margin-top: 50px;
+}
+.images{
+    width: 635px;
+    height: 800px;
+    margin-left: 240px;
+    margin-right: 240px;
+    margin-top: 50px;
+
+}
