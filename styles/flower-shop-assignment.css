@@ -143,4 +143,29 @@ text-decoration-line: underline;
 margin-top: 50px;
 }
 
+/* services-banner-container rleted styls */
+.services-banner-container{
+ 
+  width: 1440px;
+  height: 320px;
+  border-radius: 8px;
+  background: rgba(39, 39, 39, 0.05);
+  width: 75%;
+  margin: auto;
+}
+
+
+
+.services-banner-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 140px;
+}
+.box{
+    text-align: center;
+    
+}
+
+
 
