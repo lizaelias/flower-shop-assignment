@@ -167,5 +167,93 @@ margin-top: 50px;
     
 }
 
+/* banner-part2 releted styles */
+
+.banner-part2-container{
+  display: flex;
+  background-size: cover;
+  gap:0 px;
+  height: 620px;
+  background: rgba(229, 84, 115, 0.05);
+  margin-top: 130px;
+
+}
+.banner-part2-container-left-colume{
+    margin: auto;
+    align-content:center;
+}
+.banner-part2-container-right-colume{
+    display: flex;
+    margin: auto;
+    
+}
+.banner-part2-title{
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+    margin-top: 230px;
+    text-align: center;
+    
+   
+}
+.off-color{
+    color:#E55473;
+}
+
+.banner-part2-title{
+    
+}
+
+.banner-part2-title-discription{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+   
+
+    
+
+}
+
+.btn2{
+    padding: 20px 43px;
+    border-radius: 8px;
+    background: #E55473;
+    gap: 10px;
+    color: #FFF;
+    font-size: 20px;
+    border: 0px;
+    margin-top: 50px;
+    margin-bottom: 150px;
+}
 
 
+/* Instagram-part styls */
+.Instagram-part{
+    text-align:center ;
+    margin-top: 130px;
+    
+
+}
+
+.Instagram-title{
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+
+}
+.Instagram-discription{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.images-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 100px 50px 0px 50px;
+
+}
+    
