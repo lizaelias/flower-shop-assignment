@@ -256,4 +256,84 @@ margin-top: 50px;
     margin: 100px 50px 0px 50px;
 
 }
+
+/* Get The Latest Deals */
+.small-banner-container{
     
+    height: 449px;
+    
+    background-image: url('../imges/Rectangle\ 9.png');
+    background-position:center;
+    margin-top: 130px;
+    background-repeat: no-repeat;
+}
+
+.small-banner-container-title{
+    
+ color: #272727;
+text-align: center;
+font-size: 40px;
+font-weight: 800;
+padding-top:150px;
+align-items: center;
+
+}
+
+.small-banner-container-discription{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
+.email{
+    width: 700px;
+    height: 64px;
+    background: #FFF;
+    font-weight: 400;
+    font-size: 16px;
+    color: rgba(39, 39, 39, 0.60);
+    padding-left: 10px;
+    border: 0px;
+    border-radius: 5px;
+    
+    
+
+}
+.a{
+padding-left:400px;
+}
+
+/* footer seciton styls */
+.footer{
+    height: 449px;
+    background-color: #111010;
+    margin-top: 150px;
+}
+.footer-title{
+    color:#FFF;
+    text-align: center;
+    padding-top: 150px;
+    font-size:48px;
+    font-weight: 800px;
+}
+    
+.footer-dis{
+color: rgba(255, 255, 255, 0.90);
+text-align: center;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+padding: 10px;
+}
+
+.copy{
+color: rgba(255, 255, 255, 0.40);
+text-align: center;
+font-family: Lato;
+font-size: 16px;
+font-weight: 400;
+
+}
+
+
